@@ -470,3 +470,9 @@ body {
 		display: none;
 	}
 }
+
+@media (max-width: 300px) {
+	.search-input {
+		width: 100%;
+	}
+}
